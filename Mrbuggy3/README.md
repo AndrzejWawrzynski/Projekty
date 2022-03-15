@@ -1,0 +1,3 @@
+# Opis ogólny projektu
+
+aaaaaaaaaa.....................
