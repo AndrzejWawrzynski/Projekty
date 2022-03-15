@@ -2,4 +2,4 @@
 
 aaaaaaaaaa.....................
 
-[Link](01%20_Analiza_specyfikacji/Projekt_koncowy_Specyfikacja_Bledy.csv)
+[Link](01_Analiza_specyfikacji/Projekt_koncowy_Specyfikacja_Bledy.csv)
